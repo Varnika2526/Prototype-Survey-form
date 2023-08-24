@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&family=Merriweather&family=Sedgwick+Ave+Display&display=swap');
+body{
+    background-color: chocolate;
+}
+
+.header{
+    font-family: 'Merriweather', serif;
+    background-color:cornsilk;
+    text-align:center;
+    height:3%;
+    top:auto;
+}
+.container{
+    background-color:antiquewhite;
+    position:relative;
+    text-align:center;
+    height: 100%;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    padding-top:1%;
+    padding-bottom:1%;
+    padding-left:1%;
+    padding-right:1%;
+}
+.name{
+    padding:3%;
+    text-align:center;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+.email{
+    padding:3%;
+    text-align:center;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+.age{
+    padding:3%;
+    text-align:center;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.elements{
+    padding:3%;
+    text-align:justify;
+    font-family: 'Bricolage Grotesque', sans-serif;
+}
+.footer{
+    padding-bottom: 0%;
+    text-align:center;
+    color:white;
+}
+.submit{
+    padding:2%;
+    text-align:justify;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    color:darkorchid;
+    text-decoration:none;
+}
+a{
+    color:darkorchid;
+    text-decoration:none;
+}
+a:hover{
+    color:black;
+    text-decoration:none;
+    cursor:pointer;
+}
